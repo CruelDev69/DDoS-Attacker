@@ -27,7 +27,7 @@ Enter a website URL and wait for it to get down by this tool.
 
 ***
 
-<p align="center"><img width="600px" src="./assets/ddos_tool_start.png"/></p>
+<p align="center"><img width="600px" src="./assets/ddos_tool_start.PNG"/></p>
 <p align="center"><img width="600px" src="./assets/ddos_tool_stop.png"/></p>
 
 ***
