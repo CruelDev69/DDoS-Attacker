@@ -21,8 +21,8 @@ Enter a website URL and wait for it to get down by this tool.
 | Question          | Answer                                                                                    |
 |-----------------------|------------------------------------------------------------------------------------------------|
 | **Can we DDoS a IP by using this code?**         | No you can only DDoS a website using this script.                      |
-| **How will we turn it off when targeted website is down?**         | You don't have to worry about it because when website status code changes to 429 it will automatically quit.                                            |
-| **How many request it can send maximum?**            | It will send requests until targeted website returns statuc code 429.                                |
+| **How will we turn it off when targeted website is down?**         | You don't have to worry about it because when website status code changes to `429` it will automatically quit.                                            |
+| **How many request it can send maximum?**            | It will send requests until targeted website returns status code `429`.                                |
                                                                            
 
 ***
